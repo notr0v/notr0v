@@ -1,1 +1,1 @@
- <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--sNXjzc6P-/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media1.tenor.com/images/0c34272909ee2a4db5606a014082312b/tenor.gif%3Fitemid%3D15828752">
+  <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47a0ssmmahykqhxpqxj7b18gbow8ajbv7aisdddt8t&ep=v1_gifs_search&rid=giphy.gif&ct=g">
