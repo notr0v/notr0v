@@ -1,1 +1,1 @@
-  <img align="left" alt="Coding" width="380" src="https://media0.giphy.com/media/PuvJVM5w0wu6QEUWfq/giphy.gif">  <img align="right" alt="Coding" width="380" src="https://media4.giphy.com/media/FhPbyzFSuKmly/giphy.gif">    
+  <img align="left" alt="Coding" width="420" src="https://media0.giphy.com/media/PuvJVM5w0wu6QEUWfq/giphy.gif">  <img align="right" alt="Coding" width="420" src="https://media4.giphy.com/media/FhPbyzFSuKmly/giphy.gif">    
