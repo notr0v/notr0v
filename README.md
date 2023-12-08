@@ -1,1 +1,1 @@
-<iframe src="https://giphy.com/embed/u9tUMKyvjiBLbHNVZH" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ufc-sports-sport-mma-u9tUMKyvjiBLbHNVZH">via GIPHY</a></p>
+  <img align="left" alt="Coding" width="400" src="https://media0.giphy.com/media/PuvJVM5w0wu6QEUWfq/giphy.gif">
